@@ -23,7 +23,7 @@ serde = { version = "=1.0.217", features = ["derive"] }
 serde_json = { version = "=1.0.138", features = ["preserve_order"] }
 rumqttc = "=0.24.0"
 rand = "=0.8.5"
-config = "=0.15.6"
+config = "=0.15.7"
 surf = { version = "=2.3.2", default-features = false, features = [
 	"h1-client-rustls",
 ] }
