@@ -2977,9 +2977,9 @@ checksum = "317211a0dc0ceedd78fb2ca9a44aed3d7b9b26f81870d485c07122b4350673b7"
 
 [[package]]
 name = "wakey"
-version = "0.3.0"
+version = "0.4.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "dedab5a691c0d33bcfb5c1ed6bb17265e531ed3392282eed9b20063a0f23e9f5"
+checksum = "c896a3efca4a0d8c236f12b1326f7f99226053382e89c2fee1e73ecc418d0922"
 dependencies = [
  "arrayvec 0.7.6",
  "hex",
