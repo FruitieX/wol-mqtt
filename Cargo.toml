@@ -27,4 +27,4 @@ config = "=0.15.19"
 surf = { version = "=2.3.2", default-features = false, features = [
 	"h1-client-rustls",
 ] }
-wakey = "=0.3.0"
+wakey = "=0.4.1"
